@@ -1227,7 +1227,6 @@ console load BeefyUncleTorre/map/1
 #  36
 
 
-***
    4,D,X
   10,L,X
   23,L,J
@@ -1253,7 +1252,6 @@ console load BeefyUncleTorre/map/1
    9,J
    3,R,K,G
    2,R
-***
   15,U,X
    1,R,J,G
    9,R
@@ -1268,7 +1266,6 @@ console load BeefyUncleTorre/map/1
   16,U,X
    9,R,J,G
    7,R
-***
    4,D,X
    6,L,J,G
    7,L,G
@@ -1293,7 +1290,6 @@ console load BeefyUncleTorre/map/1
    1,L
   14,L,U,X
    1,L,J,G
-***
    4,L
    1
    5,L
@@ -1509,7 +1505,6 @@ lvl_cold-04
   40
 
 #lvl_cold-06
-***
    1,L
    1,L,J
    9,L,D,X
